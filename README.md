@@ -294,24 +294,24 @@ XXD 是小小东品牌名的缩写，本项目由小小东创建并维护： [@x
 
 一对一深入咨询 Skills 的使用与工作流，通过微信联系小小东预约。 [WeChat](https://xiaoxiaodong.pages.dev/assets/wechat-qr.png)
 
-### 小小东 Skills 用户交流群 · 168 元
+### 小小东总控 · 将军总指挥 Skill · 100 元
 
-一次付费加入 Skills 用户交流群，用于工作流分享和用户间讨论；不包含按小时计费的一对一咨询。
+一次支付 100 元获得本套将军总指挥 Skill（`xxd-panel-all`），用于主控、推荐、点将和批量调度全部士兵 Skills；不包含按小时的一对一深度咨询。扫码后请备注“将军总指挥 Skill”。
 
 <!-- xxd-panel-command-system:start -->
-**入群成员可享用：主控全队的将军 Skill**
+**购买后可使用：主控全队的将军 Skill**
 
 | 层级 | Skill | 负责什么 |
 |---|---|---|
 | **将军级** | [`xxd-panel-all`](https://github.com/nevertoday/xxd-panel-all) | 识别当前可用的编号 Skills；按图片、主题和用途推荐；按编号点将；组织同图多风格试稿；为图片文件夹批量分配并逐项派发。 |
 | **士兵级** | `xxd-panel-NNN`（当前 001–060） | 每个编号只执行自己独立的原始提示词与审美，把将军派发的单个任务完成为成品。 |
 
-将军 Skill 是整个编号 Skills 队伍的总控入口。交流群成员可以使用它，并获得安装、版本更新、队伍配置和调度方式的答疑。将军只负责组织与派发，不会改写、混合或覆盖士兵的原始美学；每张成品仍由被选中的士兵 Skill 独立完成。
+将军 Skill 是整个编号 Skills 队伍的总控入口。购买后即可使用，并获得安装、版本更新、队伍配置和调度方式的答疑。将军只负责组织与派发，不会改写、混合或覆盖士兵的原始美学；每张成品仍由被选中的士兵 Skill 独立完成。
 <!-- xxd-panel-command-system:end -->
 
-### 知识星球＋成员提示词库 · 699 元／年
+### 知识星球＋成员提示词库＋Skills 所有将军会员 · 699 元/年
 
-知识星球和成员提示词库是一份会员费用：从任一入口开通后，通过微信联系小小东获取另一边的权益。
+[知识星球](https://wx.zsxq.com/group/15554814142882)、[小小东成员提示词库](https://vip.xiaoxiaodong.ai/)与 Skills 所有将军会员是同一份会员权益：**一次年费同时开通三项权益，无需重复付费。**
 
 [Knowledge Planet](https://wx.zsxq.com/group/15554814142882) · [Member Prompt Library](https://vip.xiaoxiaodong.ai/)
 

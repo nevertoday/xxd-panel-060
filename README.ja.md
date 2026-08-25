@@ -294,24 +294,24 @@ XXD は Xiaoxiaodong のブランド名略称です。作成・管理： [@xiaox
 
 Skills の使用とワークフローに関する一対一の相談です。WeChat で Xiaoxiaodong にご連絡ください。 [WeChat](https://xiaoxiaodong.pages.dev/assets/wechat-qr.png)
 
-### Xiaoxiaodong Skills ユーザー交流グループ · 168元
+### Xiaoxiaodong 総控 · 将軍総指揮 Skill · CNY 100
 
-一回の支払いで Skills ユーザー交流グループに参加できます。時間制の個別相談は別料金です。
+CNY 100 の一回払いで、このシリーズの将軍総指揮 Skill（`xxd-panel-all`）を利用できます。全兵士 Skills の統括、推薦、指名派遣、一括調整に対応します。時間制の個別相談は含まれません。WeChat では「将軍総指揮 Skill」と記載してください。
 
 <!-- xxd-panel-command-system:start -->
-**参加メンバーが利用できる、全隊を指揮する「将軍 Skill」**
+**購入後に利用可能：全隊を指揮する「将軍 Skill」**
 
 | 階級 | Skill | 担当 |
 |---|---|---|
 | **将軍級** | [`xxd-panel-all`](https://github.com/nevertoday/xxd-panel-all) | 利用可能な番号付き Skills の検出、画像・テーマ・用途からの推薦、番号指定の派遣、同一素材の複数スタイル試作、フォルダー画像の一括割り当てと個別派遣。 |
 | **兵士級** | `xxd-panel-NNN`（現在 001–060） | 各番号が固有の原文プロンプトと美学だけを実行し、将軍から渡された一つの仕事を完成させます。 |
 
-将軍 Skill は、番号付き Skills 全隊の司令塔です。ユーザー交流グループの参加メンバーはこれを利用でき、インストール、更新、編成、派遣方法についてサポートを受けられます。将軍は整理と派遣だけを担当し、兵士の原文美学を改変・混合・上書きしません。各完成作品は、選ばれた兵士 Skill が独立して制作します。
+将軍 Skill は、番号付き Skills 全隊の司令塔です。購入後すぐに利用でき、インストール、更新、編成、派遣方法についてサポートを受けられます。将軍は整理と派遣だけを担当し、兵士の原文美学を改変・混合・上書きしません。各完成作品は、選ばれた兵士 Skill が独立して制作します。
 <!-- xxd-panel-command-system:end -->
 
-### Knowledge Planet＋会員プロンプトライブラリ · 699元／年
+### 知識星球＋会員プロンプトライブラリ＋全将軍 Skills 会員 · 年額 CNY 699
 
-Knowledge Planet と会員プロンプトライブラリは一つの年会です。どちらかで加入後、WeChat で連絡するともう一方も開通できます。
+[知識星球](https://wx.zsxq.com/group/15554814142882)、[XXD 会員プロンプトライブラリ](https://vip.xiaoxiaodong.ai/)、全将軍 Skills 会員は同じ会員権です。**一度の年額決済で3つの特典をすべて利用でき、二重の購入は不要です。**
 
 [Knowledge Planet](https://wx.zsxq.com/group/15554814142882) · [Member Prompt Library](https://vip.xiaoxiaodong.ai/)
 
