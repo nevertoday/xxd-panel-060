@@ -304,13 +304,9 @@ XXD 是小小东品牌名的缩写，本项目由小小东创建并维护： [@x
 
 ## 支持与会员
 
-### 深度咨询 · 299 元／小时
-
-一对一深入咨询 Skills 的使用与工作流，通过微信联系小小东预约。 [WeChat](https://xiaoxiaodong.pages.dev/assets/wechat-qr.png)
-
 ### 小小东总控 · 将军总指挥 Skill · 100 元
 
-一次支付 100 元获得本套将军总指挥 Skill（`xxd-panel-all`），用于主控、推荐、点将和批量调度全部士兵 Skills；不包含按小时的一对一深度咨询。扫码后请备注“将军总指挥 Skill”。
+一次支付 100 元获得本套将军总指挥 Skill（`xxd-panel-all`），用于主控、推荐、点将和批量调度全部士兵 Skills。扫码后请备注“将军总指挥 Skill”。
 
 <!-- xxd-panel-command-system:start -->
 **购买后可使用：主控全队的将军 Skill**

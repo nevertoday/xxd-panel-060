@@ -304,13 +304,9 @@ XXD は Xiaoxiaodong のブランド名略称です。作成・管理： [@xiaox
 
 ## サポートとメンバーシップ
 
-### 個別コンサルティング · 299元／時間
-
-Skills の使用とワークフローに関する一対一の相談です。WeChat で Xiaoxiaodong にご連絡ください。 [WeChat](https://xiaoxiaodong.pages.dev/assets/wechat-qr.png)
-
 ### Xiaoxiaodong 総控 · 将軍総指揮 Skill · CNY 100
 
-CNY 100 の一回払いで、このシリーズの将軍総指揮 Skill（`xxd-panel-all`）を利用できます。全兵士 Skills の統括、推薦、指名派遣、一括調整に対応します。時間制の個別相談は含まれません。WeChat では「将軍総指揮 Skill」と記載してください。
+CNY 100 の一回払いで、このシリーズの将軍総指揮 Skill（`xxd-panel-all`）を利用できます。全兵士 Skills の統括、推薦、指名派遣、一括調整に対応します。WeChat では「将軍総指揮 Skill」と記載してください。
 
 <!-- xxd-panel-command-system:start -->
 **購入後に利用可能：全隊を指揮する「将軍 Skill」**
