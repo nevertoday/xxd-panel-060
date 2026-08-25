@@ -1,0 +1,37 @@
+<svg width="1200" height="400" viewBox="0 0 1200 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>XXD Panel 060</title>
+  <desc>Distil photographs into sparse black forms, immense pale space, halftone dissolution, Zen quietude, and resonant visual philosophy.</desc>
+  <defs>
+    <clipPath id="frame"><rect width="1200" height="400" rx="30"/></clipPath>
+    <filter id="grain"><feTurbulence type="fractalNoise" baseFrequency="0.72" numOctaves="2" seed="60" result="noise"/><feColorMatrix in="noise" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 .06 0"/></filter>
+    <pattern id="dots" width="9" height="9" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.6" fill="#1D1D1B"/></pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#1D1D1B"/><stop offset=".7" stop-color="#1D1D1B" stop-opacity=".55"/><stop offset="1" stop-color="#1D1D1B" stop-opacity="0"/></linearGradient>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="400" fill="#F7F3EA"/>
+    <rect width="1200" height="400" filter="url(#grain)" opacity=".5"/>
+    <g transform="translate(58 42)">
+      <rect width="224" height="34" rx="8" fill="#1D1D1B"/>
+      <text x="16" y="22" fill="white" font-family="Arial,sans-serif" font-size="13" font-weight="900" letter-spacing="2">🦁 XXD / IMAGE SKILL</text>
+      <text y="112" fill="#1D1D1B" font-family="Arial,sans-serif" font-size="68" font-weight="900" letter-spacing="-3">PANEL <tspan fill="#8D8173">060</tspan></text>
+      <text x="2" y="151" fill="#726B61" font-family="Arial,sans-serif" font-size="13" font-weight="900">BLACK FORM · IMMENSE SPACE · HALFTONE DISSOLUTION · ZEN</text>
+      <text x="2" y="198" fill="#1D1D1B" font-family="sans-serif" font-size="18" font-weight="800">把照片提炼成安静而有回声的视觉哲思</text>
+      <text x="2" y="230" fill="#68635C" font-family="sans-serif" font-size="14" font-weight="700">写真を静かに余韻を残す視覚哲学へ</text>
+      <text x="2" y="260" fill="#68635C" font-family="sans-serif" font-size="14" font-weight="700">사진을 고요한 울림이 남는 시각 철학으로</text>
+      <text x="2" y="291" fill="#68635C" font-family="Arial,sans-serif" font-size="13" font-weight="700">اختزال الصورة في فلسفة بصرية هادئة يتردد صداها</text>
+    </g>
+    <g transform="translate(58 334)">
+      <rect width="105" height="34" rx="8" fill="#1D1D1B"/><text x="52.5" y="22" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="11" font-weight="900">SOURCE-BOUND</text>
+      <rect x="117" width="88" height="34" rx="8" fill="#8D8173"/><text x="161" y="22" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="11" font-weight="900">4 MODES</text>
+      <rect x="217" width="132" height="34" rx="8" fill="#5E625C"/><text x="283" y="22" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="11" font-weight="900">WALLPAPER PACK</text>
+    </g>
+    <g transform="translate(806 36)">
+      <circle cx="178" cy="168" r="108" fill="url(#dots)"/>
+      <path d="M62 264C106 208 154 179 204 177C245 175 280 191 329 234" stroke="url(#fade)" stroke-width="35" stroke-linecap="round"/>
+      <circle cx="298" cy="82" r="18" fill="#1D1D1B"/>
+      <path d="M172 60C160 98 153 137 154 177C156 219 168 258 193 302" stroke="#1D1D1B" stroke-width="2" stroke-dasharray="2 8" opacity=".55"/>
+      <path d="M44 318H350" stroke="#8D8173" stroke-width="1"/>
+      <rect x="238" y="252" width="7" height="44" rx="3.5" fill="#1D1D1B"/><circle cx="241.5" cy="244" r="5" fill="#1D1D1B"/>
+    </g>
+  </g>
+</svg>
