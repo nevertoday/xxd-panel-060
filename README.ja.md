@@ -14,6 +14,28 @@
 
 </div>
 
+<!-- xxd-human-intro:start -->
+## まず、ひとことで
+
+気に入っている写真を AI に渡したら、どこかで見たような「AI デザイン」になってしまったことはありませんか。被写体は残っていても、その写真らしい関係や空気、小さな手がかりが消えてしまう。
+
+その違和感から **Panel 060** を作りました。テンプレートを被せるのではなく、写真から失ってはいけないものを見つけ、**写真を1〜3個の黒い核へ凝縮し、静かに余韻を残す視覚哲学へ**へ翻訳します。
+
+### 30秒でわかること
+
+- **渡すもの：** 写真1枚、画像フォルダー、または大まかなアイデア。
+- **すること：** 人物・物・動き・関係を保ち、この Panel 固有の視覚言語で再設計。
+- **受け取るもの：** すぐ使える PNG。比較、デザインのみ、複数比率、壁紙一式にも対応。
+
+### いちばん簡単な試し方
+
+最初から全設定を読む必要はありません。画像を Agent に渡して、こう伝えてください。
+
+> XXD Panel 060 でこの画像を処理して、まず最適な構図とサイズを提案して。
+
+雰囲気を確かめたいなら下の作例へ。すぐ作るなら [使い始める](#使い始める) へ。全モードと引数は、必要なときだけ開ける資料にまとめました。
+<!-- xxd-human-intro:end -->
+
 ## 作例 · X より
 
 <table>
@@ -21,6 +43,14 @@
     <td width="33.33%"><a href="https://x.com/xiaoxiaodong01/status/2092190049999937946"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 060 作例 1"></a></td>
     <td width="33.33%"><a href="https://x.com/xiaoxiaodong01/status/2092190049999937946"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 060 作例 2"></a></td>
     <td width="33.33%"><a href="https://x.com/xiaoxiaodong01/status/2092190049999937946"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 060 作例 3"></a></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="./assets/examples/sample-05.png" alt="XXD Panel 060 作例 5"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 060 作例 6"></td>
+    <td width="33%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 060 作例 7"></td>
+    <td width="33%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 060 作例 8"></td>
   </tr>
 </table>
 
@@ -69,6 +99,9 @@
 - 主体は浮遊、偏心、低置、高置、縮小でき、極少文字は説明ではなく傍白や思考の断片として働きます。
 
 美的制約と拒否項目は[原文プロンプト](references/original-prompt/zh-CN.md)だけにあり、Skill とランタイムアダプターは今回の出力変数だけを扱います。 [Skill](SKILL.md) · [英語ランタイムアダプター](references/xxd-panel-060-prompt.en.md)
+
+<details>
+<summary><strong>全機能と引数（必要なときに開く）</strong></summary>
 
 ## 原文プロンプトを唯一の美的基準にする
 
@@ -211,6 +244,8 @@ GPT Image 2 を既定の第一候補とします。高忠実度の参照画像�
 現在のツールまたは設定済み経路から実際に利用でき、元画像の忠実度、完成画角、対象言語の文字、連動壁紙の複数参照を満たせる場合は、Seedance 5.0 Pro、Nano Banana Pro（Gemini Image Pro）、Nano Banana 2（Gemini Image Flash）、その他の互換ビットマップモデルも利用できます。代替モデルが変更できるのは生成経路だけで、モード、画角、文案、言語、壁紙関係、完成キャンバス優先の方針は変更できません。
 
 適切な経路がない場合は、画像生成ツールを有効にするか API Key を提供するようユーザーに案内します。ユーザーが提供した認証情報は現在のタスクで利用できますが、返信やログに再表示・記録・開示しません。明示的な依頼がない限り、長期保存やプロバイダー、アカウント、課金、グローバル経路の設定変更も行いません。
+
+</details>
 
 ## 使い始める
 

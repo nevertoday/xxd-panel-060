@@ -14,6 +14,28 @@
 
 </div>
 
+<!-- xxd-human-intro:start -->
+## 먼저, 쉽게 말하면
+
+마음에 드는 사진을 AI에 맡겼는데 어디서 본 듯한 ‘AI 디자인’만 남은 적 있나요? 피사체는 있지만 그 사진만의 관계, 분위기, 작은 단서는 사라집니다.
+
+그 답답함 때문에 **Panel 060**을 만들었습니다. 템플릿을 덮는 대신 사진에서 절대 잃으면 안 될 것을 먼저 찾고, **사진을 1~3개의 검은 핵심 형태로 응축해 고요한 울림이 남는 시각 철학으로**로 번역합니다.
+
+### 30초 만에 이해하기
+
+- **무엇을 주나요:** 사진 한 장, 이미지 폴더, 또는 대략적인 아이디어.
+- **무엇을 하나요:** 사람·사물·동작·관계를 지키고 이 Panel만의 시각 언어로 다시 디자인합니다.
+- **무엇을 받나요:** 바로 쓸 수 있는 PNG. 비교 구성, 디자인 전용, 여러 비율, 배경화면 세트까지 가능합니다.
+
+### 가장 간단한 시작법
+
+처음부터 모든 옵션을 읽을 필요는 없습니다. Agent에 이미지를 주고 이렇게 말하세요.
+
+> XXD Panel 060으로 이 이미지를 작업하고, 먼저 가장 어울리는 구성과 크기를 추천해 줘.
+
+미감을 먼저 보고 싶다면 아래 예시를 보세요. 바로 만들려면 [시작하기](#시작하기)로 이동하세요. 전체 모드와 매개변수는 필요할 때 펼쳐 보는 자료에 담았습니다.
+<!-- xxd-human-intro:end -->
+
 ## 예시 · X에서
 
 <table>
@@ -21,6 +43,14 @@
     <td width="33.33%"><a href="https://x.com/xiaoxiaodong01/status/2092190049999937946"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 060 예시 1"></a></td>
     <td width="33.33%"><a href="https://x.com/xiaoxiaodong01/status/2092190049999937946"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 060 예시 2"></a></td>
     <td width="33.33%"><a href="https://x.com/xiaoxiaodong01/status/2092190049999937946"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 060 예시 3"></a></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="./assets/examples/sample-05.png" alt="XXD Panel 060 예시 5"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 060 예시 6"></td>
+    <td width="33%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 060 예시 7"></td>
+    <td width="33%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 060 예시 8"></td>
   </tr>
 </table>
 
@@ -69,6 +99,9 @@
 - 주체는 떠 있거나 비대칭, 낮음, 높음, 축소 상태가 될 수 있으며 극소수의 글자는 설명이 아니라 방백이나 생각의 파편입니다.
 
 미적 제약과 금지 항목은 [원본 프롬프트](references/original-prompt/zh-CN.md)에만 있으며 Skill과 런타임 어댑터는 이번 출력 변수만 처리합니다. [Skill](SKILL.md) · [영문 런타임 어댑터](references/xxd-panel-060-prompt.en.md)
+
+<details>
+<summary><strong>전체 기능과 매개변수 (필요할 때 펼치기)</strong></summary>
 
 ## 원본 프롬프트가 유일한 미적 기준입니다
 
@@ -211,6 +244,8 @@ GPT Image 2를 기본 최우선 모델로 사용합니다. 고충실도 원본 �
 현재 도구 또는 설정된 경로에서 실제로 사용할 수 있고 원본 충실도, 완성 화면비, 대상 언어의 문자, 연결형 배경화면의 다중 참조 요구를 충족할 때는 Seedance 5.0 Pro, Nano Banana Pro(Gemini Image Pro), Nano Banana 2(Gemini Image Flash) 또는 다른 호환 비트맵 모델도 사용할 수 있습니다. 대체 모델은 생성 경로만 바꾸며 모드, 캔버스, 문구, 언어, 배경화면 관계와 완성 캔버스 우선 전략을 바꾸지 않습니다.
 
 적합한 경로가 없으면 이미지 생성 도구를 활성화하거나 API Key를 제공하도록 사용자에게 요청합니다. 사용자가 제공한 인증 정보는 현재 작업에 사용할 수 있지만 답변이나 로그에 다시 표시·기록·노출하지 않습니다. 사용자가 명시적으로 요청하지 않는 한 장기 저장하거나 제공자, 계정, 결제 또는 전역 경로 설정을 변경하지 않습니다.
+
+</details>
 
 ## 시작하기
 
