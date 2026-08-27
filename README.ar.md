@@ -36,7 +36,7 @@
 شاهد النماذج أدناه للتعرّف على الحس البصري، أو انتقل إلى [البدء](#البدء) إن كنت جاهزاً. وضعت الأوضاع والمعاملات الكاملة داخل مرجع قابل للفتح عند الحاجة.
 <!-- xxd-human-intro:end -->
 
-## النماذج · من X
+## النماذج الأصلية من X
 
 <table>
   <tr>
@@ -44,6 +44,11 @@
     <td width="33.33%"><a href="https://x.com/xiaoxiaodong01/status/2092190049999937946"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 060 نموذج 2"></a></td>
     <td width="33.33%"><a href="https://x.com/xiaoxiaodong01/status/2092190049999937946"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 060 نموذج 3"></a></td>
   </tr>
+</table>
+
+## نماذج إضافية 16:9 بتكوين جانبي
+
+<table>
   <tr>
     <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 060 نموذج 5"></td>
     <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 060 نموذج 6"></td>
@@ -290,7 +295,7 @@ Use this photograph, ask me for the modes and copy setting, then generate fresh 
 | [xxd-panel-017](https://github.com/nevertoday/xxd-panel-017) | أشكال مستديرة · خط خشن متقطع · تعبئة مسطحة صافية · مساحات مشرقة · لا تماثل حيوي |
 | [xxd-panel-018](https://github.com/nevertoday/xxd-panel-018) | مرساة بصرية واحدة · طبقات أمامية ووسطى وخلفية قليلة · فراغ عاجي · ورق مطفأ · ميكروتايب كامل |
 | [xxd-panel-019](https://github.com/nevertoday/xxd-panel-019) | تعرّف أولاً · اختزل بقصد · كوّن بالكتابة |
-| [xxd-panel-020](https://github.com/nevertoday/xxd-panel-020) | تفكيك—اختيار—تقطير—إعادة بناء · أشكال قليلة · أدوار لونية صارمة · فراغ عاجي · نص مجهري لكتاب فني |
+| [xxd-panel-020](https://github.com/nevertoday/xxd-panel-020) | جزيرة طلاء كثيف · مشهد مصغّر مجسّم · آثار سكين حقيقية · فراغ ورقي واسع · كتابة تحريرية رصينة |
 | [xxd-panel-021](https://github.com/nevertoday/xxd-panel-021) | مستطيل أسود خالص · معظم الموضوع في الداخل · سمة واحدة تخترق الحد · خط نسخ مهتز · شكل سلبي أبيض ومساحات رمادية ضئيلة |
 | [xxd-panel-022](https://github.com/nevertoday/xxd-panel-022) | مستطيل أسود خالص · معظم الموضوع في الداخل · سمة واحدة تخترق الحد · خط سلس ثابت · إشارة لونية واحدة |
 | [xxd-panel-023](https://github.com/nevertoday/xxd-panel-023) | نافذة يختارها المصدر · خلفية شاحبة تتنفس · ضوء ملوّن ناعم · حبيبات رش · إسقاط منتشر ونص دقيق |
