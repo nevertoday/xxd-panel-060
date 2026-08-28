@@ -14,28 +14,6 @@
 
 </div>
 
-<!-- xxd-human-intro:start -->
-## Where this Panel fits — and what it solves
-
-When a photograph needs to become a poster, cover, social asset, or wallpaper, the real design problem is rarely a simple change of style. The challenge is to redesign it while preserving identity, key relationships, mood, and recognisability.
-
-**Panel 060** is suited to work that must retain the source's essential content while pursuing this visual direction: **Distil a photograph into one to three black forms and a quiet visual philosophy that continues to resonate**. It begins with intended use and desired outcome; layout, size, text, and delivery format follow from those needs.
-
-### Use it when
-
-- **Content must remain anchored:** people, objects, actions, and relationships should not be replaced by an unrelated template.
-- **The image needs stronger expression:** you want a clearer editorial language, artistic treatment, or narrative focus.
-- **Delivery must stay flexible:** one source needs comparison layouts, design-only artwork, multiple ratios, or a wallpaper set.
-
-### A simple way to begin
-
-You do not need to review every option first. Send your Agent an image and say:
-
-> Use XXD Panel 060 on this image and recommend the best layout and size first.
-
-Review the samples below if you want to confirm the visual direction first. When you are ready, continue to [Get started](#get-started). Full modes, sizes, and parameters remain available in the expandable reference.
-<!-- xxd-human-intro:end -->
-
 ## Original Samples from X
 
 <table>
@@ -83,6 +61,28 @@ These four works reuse the same four independent sources as the 16:9 set above, 
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2092190049999937946">View the original sample post →</a></p>
 
 These samples demonstrate 060's aesthetic result only. Their subjects, composition, palette, copy, and earlier canvas ratio never become references or defaults for a new task.
+
+<!-- xxd-human-intro:start -->
+## Where this Panel fits — and what it solves
+
+When a photograph needs to become a poster, cover, social asset, or wallpaper, the real design problem is rarely a simple change of style. The challenge is to redesign it while preserving identity, key relationships, mood, and recognisability.
+
+**Panel 060** is suited to work that must retain the source's essential content while pursuing this visual direction: **Distil a photograph into one to three black forms and a quiet visual philosophy that continues to resonate**. It begins with intended use and desired outcome; layout, size, text, and delivery format follow from those needs.
+
+### Use it when
+
+- **Content must remain anchored:** people, objects, actions, and relationships should not be replaced by an unrelated template.
+- **The image needs stronger expression:** you want a clearer editorial language, artistic treatment, or narrative focus.
+- **Delivery must stay flexible:** one source needs comparison layouts, design-only artwork, multiple ratios, or a wallpaper set.
+
+### A simple way to begin
+
+You do not need to review every option first. Send your Agent an image and say:
+
+> Use XXD Panel 060 on this image and recommend the best layout and size first.
+
+Review the samples below if you want to confirm the visual direction first. When you are ready, continue to [Get started](#get-started). Full modes, sizes, and parameters remain available in the expandable reference.
+<!-- xxd-human-intro:end -->
 
 ## Original prompt · Five languages
 
