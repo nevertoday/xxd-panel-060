@@ -62,6 +62,21 @@
   </tr>
 </table>
 
+## 추가 3:4 상하 구성 예시
+
+위 16:9 예시와 같은 네 개의 독립 소스를 완전한 3:4 상하 캔버스로 다시 생성했습니다. 위쪽은 현실 사진을 유지하고 아래쪽은 Panel 060의 원본 프롬프트에 따라 재구성합니다. 영어 문구는 각 사진의 내용·분위기·함의에서만 생성했으며 모든 결과를 개별 검수했습니다.
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-09.png" alt="XXD Panel 060 추가 상하 예시 1"></td>
+    <td width="50%"><img src="./assets/examples/sample-10.png" alt="XXD Panel 060 추가 상하 예시 2"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-11.png" alt="XXD Panel 060 추가 상하 예시 3"></td>
+    <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 060 추가 상하 예시 4"></td>
+  </tr>
+</table>
+
 > [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2092190049999937946) · 2026년 8월 25일<br>
 > GPT2 × 선의 정취 × 미니멀리즘 × 미학 프롬프트 × VOL.060
 
