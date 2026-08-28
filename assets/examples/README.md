@@ -9,6 +9,7 @@
   - `sample-01.jpg`
   - `sample-02.jpg`
   - `sample-03.jpg`
+  - `sample-04.jpg`
 
 ## Additional landscape samples
 
