@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 060
+# 🦁 XXD Panel 060｜Zen Minimalist Poem
 
 ### Distil a photograph into one to three black forms and a quiet visual philosophy that continues to resonate
 

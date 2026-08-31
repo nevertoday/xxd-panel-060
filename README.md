@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 060
+# 🦁 XXD Panel 060｜禅意极简诗
 
 ### 用 1–3 个黑色核心形体，把照片提炼成安静而有回声的视觉哲思
 
