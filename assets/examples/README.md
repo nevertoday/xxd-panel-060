@@ -11,6 +11,8 @@
   - `sample-03.jpg`
   - `sample-04.jpg`
 
+The original post's fourth media slot is byte-identical to the third. Both files are retained to mirror the source attachment slots, not to claim two distinct designs.
+
 ## Additional landscape samples
 
 - Content source: `group_010`; all four source files are used once in filename order.

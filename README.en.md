@@ -4,11 +4,7 @@
 
 ### Distil a photograph into one to three black forms and a quiet visual philosophy that continues to resonate
 
-[![Codex Skill](https://img.shields.io/badge/Codex-Skill-000000?style=flat-square)](./SKILL.md)
-[![Modes](https://img.shields.io/badge/Modes-4-EF805E?style=flat-square)](#)
-[![Output](https://img.shields.io/badge/Output-PNG-4AA1AE?style=flat-square)](#)
-
-<a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
+<a href="README.md">简体中文</a> · <strong>English</strong> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
 
 </div>
 
@@ -25,7 +21,9 @@
   </tr>
 </table>
 
-## New 16:9 Left–Right Samples
+> The fourth media slot in the original post is identical to the third. The repository preserves both attachment slots faithfully and does not present them as two different designs.
+
+## 16:9 Landscape Left–Right Samples
 
 <table>
   <tr>
@@ -38,7 +36,7 @@
   </tr>
 </table>
 
-## Additional 3:4 Top–Bottom Samples
+## 3:4 Portrait Top–Bottom Samples
 
 These four works reuse the same four independent sources as the 16:9 set above, now regenerated as complete 3:4 top–bottom canvases. The reality photograph stays above; the lower design follows Panel 060's original brief. English copy is generated only from each photograph's content, mood, or implication, and every result was individually reviewed.
 
@@ -294,9 +292,9 @@ Use this photograph, ask me for the modes and copy setting, then generate fresh 
 Full specifications: [Skill workflow](SKILL.md) · [source archive](references/original-prompt/zh-CN.md) · [English runtime adapter](references/xxd-panel-060-prompt.en.md) · [Chinese runtime adapter](references/xxd-panel-060-prompt.zh-CN.md)
 
 <!-- xxd-panel-catalog:start -->
-## Complete XXD Panel catalog
+## Historical XXD Panel directory
 
-Each of the 60 Panels preserves its own original brief and aesthetic logic. The table lists every project address and its defining style characteristics; the current project is bold.
+This table is the historical 001–060 Panel directory. Each entry preserves its own original brief and aesthetic logic; the current project is bold.
 
 | Project | Style characteristics |
 |---|---|
@@ -378,7 +376,7 @@ A one-time CNY 100 purchase unlocks this suite's General Command Skill (`xxd-pan
 | Level | Skill | Responsibility |
 |---|---|---|
 | **General** | [`xxd-panel-all`](https://github.com/nevertoday/xxd-panel-all) | Detect available numbered Skills; recommend by image, theme, or use; dispatch a chosen number; organize multi-style trials; and assign folders of images to individual jobs. |
-| **Soldiers** | `xxd-panel-NNN` (currently 001–060) | Each numbered Skill executes only its own original brief and aesthetic, completing the individual job assigned by the General. |
+| **Soldiers** | `xxd-panel-NNN` (currently 001–112) | Each numbered Skill executes only its own original brief and aesthetic, completing the individual job assigned by the General. |
 
 The General Skill is the command center for the entire numbered-Skill roster. Your purchase unlocks it together with help for installation, updates, roster setup, and dispatch workflows. The General organizes and routes; it never rewrites, blends, or overrides a Soldier's original aesthetic. Every finished asset is still created independently by the selected Soldier Skill.
 <!-- xxd-panel-command-system:end -->
