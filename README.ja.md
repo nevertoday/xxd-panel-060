@@ -80,6 +80,17 @@
 視覚方向を先に確認したい場合は、上の作例をご覧ください。準備ができたら[使い始める](#使い始める)へ進めます。全モードと引数は折りたたみ資料から必要に応じて確認できます。
 <!-- xxd-human-intro:end -->
 
+<!-- xxd-panel-benefit:start -->
+## すぐに判断：XXD Panel 060 はあなたに合う？
+
+| 知りたいこと | このスタイルの答え |
+|---|---|
+| **得られる完成作品** | 写真を1〜3個の黒い核へ凝縮し、静かに余韻を残す視覚哲学へ |
+| **ひと目で分かる特徴** | 黒い主形 · 巨大な余白 · 網点の消散 · 禅的思考 · 思考の断片 |
+| **入力素材をどう尊重するか** | 入力に固有の人物・物・関係・構造・事実を識別可能なまま保ちます。スタイル変換は視覚言語を再構成するもので、内容を無関係なテンプレートへ置き換えません。 |
+| **利用できる形** | 上下、左右、デザインのみ、4端末の壁紙を、複数比率または正確なサイズで作れます。納品形式が変わっても、この Panel のスタイル固有性は薄まりません。 |
+<!-- xxd-panel-benefit:end -->
+
 ## 使い方のコツ
 
 - **まず一枚の見やすい写真から始める：** 主体・動作・関係が分かる画像を選んでから、出力形式と比率を決めます。
@@ -88,6 +99,31 @@
 - **文字の方法を選ぶ：** 画像から自動生成、`--text exact --copy` で逐字固定、または `--text none` で文字なしにできます。
 - **写真領域とデザイン領域を伝える：** 上下・左右では写真を残す側と再設計する側を指定し、デザインのみ・壁紙では全画面を再設計すると伝えます。
 - **一枚で試してから一括処理する：** モード、比率、文字、言語を一枚で確認し、同じ設定をフォルダに適用します。比較しやすいよう一度に一つだけ変更します。
+
+## 使い始める
+
+```bash
+git clone https://github.com/nevertoday/xxd-panel-060.git
+mkdir -p ~/.codex/skills
+ln -s "$(pwd)/xxd-panel-060" ~/.codex/skills/xxd-panel-060
+```
+
+`npx skills` でも直接インストールできます：
+
+```bash
+npx skills add https://github.com/nevertoday/xxd-panel-060 --skill xxd-panel-060
+```
+
+このコマンドは GitHub からリポジトリを取得し、同名の Skill を現在の Agent にインストールします。ユーザー単位の Codex Skills ディレクトリへ入れる場合は、末尾に `--global --agent codex --yes` を追加してください。
+
+Claude Code では同じフォルダを次へリンクできます： `~/.claude/skills/xxd-panel-060`. インストール後に Agent セッションを再起動してください。
+
+```text
+$xxd-panel-060
+Use this photograph, ask me for the modes and copy setting, then generate fresh raster outputs.
+```
+
+完全仕様: [Skill ワークフロー](SKILL.md) · [原始スタイル資料](references/original-prompt/zh-CN.md) · [英語ランタイムアダプター](references/xxd-panel-060-prompt.en.md) · [中国語ランタイムアダプター](references/xxd-panel-060-prompt.zh-CN.md)
 
 ## 原始プロンプト · 5言語
 
@@ -99,16 +135,6 @@
 
 写真を、最も重要な一つの形、記憶すべき一つの関係、意味深い一つの視覚命題へ凝縮します。黒い主体は網点、縞、波線、粒子、消散の中で「現れ」と「消え」を同時に示し、極淡の紙面と巨大な余白が、静けさ、孤独、時間、見る行為そのものを画面内容にします。
 
-<!-- xxd-panel-benefit:start -->
-## すぐに判断：XXD Panel 060 はあなたに合う？
-
-| 知りたいこと | このスタイルの答え |
-|---|---|
-| **得られる完成作品** | 写真を1〜3個の黒い核へ凝縮し、静かに余韻を残す視覚哲学へ |
-| **ひと目で分かる特徴** | 黒い主形 · 巨大な余白 · 網点の消散 · 禅的思考 · 思考の断片 |
-| **入力素材をどう尊重するか** | 入力に固有の人物・物・関係・構造・事実を識別可能なまま保ちます。スタイル変換は視覚言語を再構成するもので、内容を無関係なテンプレートへ置き換えません。 |
-| **利用できる形** | 上下、左右、デザインのみ、4端末の壁紙を、複数比率または正確なサイズで作れます。納品形式が変わっても、この Panel のスタイル固有性は薄まりません。 |
-<!-- xxd-panel-benefit:end -->
 
 <details>
 <summary><strong>全機能と引数（必要なときに開く）</strong></summary>
@@ -256,31 +282,6 @@ GPT Image 2 を既定の第一候補とします。高忠実度の参照画像�
 適切な経路がない場合は、画像生成ツールを有効にするか API Key を提供するようユーザーに案内します。ユーザーが提供した認証情報は現在のタスクで利用できますが、返信やログに再表示・記録・開示しません。明示的な依頼がない限り、長期保存やプロバイダー、アカウント、課金、グローバル経路の設定変更も行いません。
 
 </details>
-
-## 使い始める
-
-```bash
-git clone https://github.com/nevertoday/xxd-panel-060.git
-mkdir -p ~/.codex/skills
-ln -s "$(pwd)/xxd-panel-060" ~/.codex/skills/xxd-panel-060
-```
-
-`npx skills` でも直接インストールできます：
-
-```bash
-npx skills add https://github.com/nevertoday/xxd-panel-060 --skill xxd-panel-060
-```
-
-このコマンドは GitHub からリポジトリを取得し、同名の Skill を現在の Agent にインストールします。ユーザー単位の Codex Skills ディレクトリへ入れる場合は、末尾に `--global --agent codex --yes` を追加してください。
-
-Claude Code では同じフォルダを次へリンクできます： `~/.claude/skills/xxd-panel-060`. インストール後に Agent セッションを再起動してください。
-
-```text
-$xxd-panel-060
-Use this photograph, ask me for the modes and copy setting, then generate fresh raster outputs.
-```
-
-完全仕様: [Skill ワークフロー](SKILL.md) · [原始スタイル資料](references/original-prompt/zh-CN.md) · [英語ランタイムアダプター](references/xxd-panel-060-prompt.en.md) · [中国語ランタイムアダプター](references/xxd-panel-060-prompt.zh-CN.md)
 
 <!-- xxd-panel-catalog:start -->
 ## XXD Panel 歴代ディレクトリ
